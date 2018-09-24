@@ -172,7 +172,7 @@ editor.renderer.updateFontSize();
 "plugins": [
     "ace"
 ]
-```
+```大幅度发到付的
 使用示例:
 
 {%ace edit=true, lang='c_cpp'%}
